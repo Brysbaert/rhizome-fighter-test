@@ -1,0 +1,62 @@
+{
+  "block": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.00000000501410650597539
+  },
+  "crouch": {
+    "boucle": true,
+    "duree": 2.5,
+    "vitesse": 0.000000142823358111373
+  },
+  "crouch_down": {
+    "boucle": false,
+    "duree": 0.633333333333333,
+    "vitesse": 0.112518367527193
+  },
+  "headbutt": {
+    "boucle": false,
+    "duree": 2.23333333333333,
+    "vitesse": 0.00000000486064640718376
+  },
+  "idle": {
+    "boucle": true,
+    "duree": 5.3,
+    "vitesse": 0.00000000310660953566536
+  },
+  "jump": {
+    "boucle": false,
+    "duree": 3.16666666666667,
+    "vitesse": 0.000000386064256426268
+  },
+  "jump_attack": {
+    "boucle": false,
+    "duree": 3.7,
+    "vitesse": 0.168600160233797
+  },
+  "ko": {
+    "boucle": false,
+    "duree": 4.6,
+    "vitesse": 0.0777929097290819
+  },
+  "punch_1": {
+    "boucle": false,
+    "duree": 1.1,
+    "vitesse": 0.0000137439286097943
+  },
+  "punch_2": {
+    "boucle": false,
+    "duree": 2.66666666666667,
+    "vitesse": 0.00000000104139652133956
+  },
+  "walk": {
+    "boucle": true,
+    "duree": 1.43333333333333,
+    "vitesse": 0.47323528136896
+  },
+  "win": {
+    "boucle": false,
+    "duree": 5.4,
+    "vitesse": 0.0000000258427713971369
+  }
+}

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rhizome Fighter</title>
+  <link rel="preload" href="./assets/fonts/russo_one_400.woff2" as="font" type="font/woff2" crossorigin>
+  <script type="module" crossorigin src="./assets/index-CzciGpEm.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-C7FAspC-.css">
+</head>
+<body>
+  <!-- Le cadre 16/9 du jeu : l'image 3D (canvas) + l'interface HTML posée par-dessus -->
+  <main id="jeu">
+    <div id="interface">
+      <div id="chargement">Chargement…</div>
+      <div id="aide"></div>
+      <div id="mesures" hidden></div>
+    </div>
+  </main>
+  <!-- Téléphone tenu en portrait (écran tactile) : le jeu se joue en paysage (Xavier, 8 nov., avis de l'expert UX) -->
+  <div id="tourner" aria-live="polite">
+    <svg viewBox="0 0 64 64" aria-hidden="true"><rect x="20" y="8" width="24" height="44" rx="4"/><path d="M28 46h8"/>
+      <path class="fleche" d="M50 24a20 20 0 0 1-4 22M46 46l0-7M46 46l7 1"/></svg>
+    <b>Tourne ton téléphone</b>
+    <span>Rhizome Fighter se joue à l'horizontale.</span>
+  </div>
+</body>
+</html>

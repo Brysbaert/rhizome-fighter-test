@@ -1,0 +1,107 @@
+{
+  "block": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.00000000419041051960254
+  },
+  "crouch": {
+    "boucle": true,
+    "duree": 2.5,
+    "vitesse": 0.000000119360947271788
+  },
+  "crouch_down": {
+    "boucle": false,
+    "duree": 0.633333333333333,
+    "vitesse": 0.0940343310164161
+  },
+  "double_punch": {
+    "boucle": false,
+    "duree": 1.0,
+    "vitesse": 0.0
+  },
+  "hook": {
+    "boucle": false,
+    "duree": 1.1,
+    "vitesse": 0.0000151421605495405
+  },
+  "idle": {
+    "boucle": true,
+    "duree": 5.3,
+    "vitesse": 0.00000000259626899888066
+  },
+  "jump": {
+    "boucle": false,
+    "duree": 1.4,
+    "vitesse": 0.00000348952776719866
+  },
+  "jump_attack": {
+    "boucle": false,
+    "duree": 3.7,
+    "vitesse": 0.1409032465123
+  },
+  "ko": {
+    "boucle": false,
+    "duree": 4.6,
+    "vitesse": 0.0650134230078191
+  },
+  "punch_2": {
+    "boucle": false,
+    "duree": 2.66666666666667,
+    "vitesse": 0.000000000870320351771203
+  },
+  "swim": {
+    "boucle": true,
+    "duree": 0.8,
+    "vitesse": 0.0
+  },
+  "tail_attack": {
+    "boucle": false,
+    "duree": 0.88,
+    "impacts": [
+      0.38
+    ],
+    "vitesse": 0.0
+  },
+  "tail_tornado": {
+    "boucle": false,
+    "duree": 1.75,
+    "impacts": [
+      0.39,
+      0.62,
+      0.8,
+      0.99,
+      1.22
+    ],
+    "vitesse": 0.0
+  },
+  "uppercut": {
+    "boucle": false,
+    "duree": 1.33333333333333,
+    "vitesse": 0.00000000422500640780189
+  },
+  "walk": {
+    "boucle": true,
+    "duree": 1.43333333333333,
+    "vitesse": 0.395494211966245
+  },
+  "walk_backward": {
+    "boucle": true,
+    "duree": 0.8,
+    "vitesse": 0.23557518177403
+  },
+  "walk_forward": {
+    "boucle": true,
+    "duree": 1.0,
+    "vitesse": 0.172291633103233
+  },
+  "water_jet": {
+    "boucle": false,
+    "duree": 4.35,
+    "vitesse": 0.0
+  },
+  "win": {
+    "boucle": false,
+    "duree": 5.4,
+    "vitesse": 0.0000000215974313647293
+  }
+}
