@@ -4,6 +4,11 @@
     "duree": 2.53333333333333,
     "vitesse": 0.00000000501410650597539
   },
+  "block_high": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.00000000501410650597539
+  },
   "crouch": {
     "boucle": true,
     "duree": 2.5,
@@ -14,10 +19,30 @@
     "duree": 0.633333333333333,
     "vitesse": 0.112518367527193
   },
+  "crouch_kick": {
+    "boucle": false,
+    "duree": 2.33333333333333,
+    "vitesse": 0.0000000141377929407063
+  },
   "headbutt": {
     "boucle": false,
     "duree": 2.23333333333333,
     "vitesse": 0.00000000486064640718376
+  },
+  "hit_body": {
+    "boucle": false,
+    "duree": 1.2,
+    "vitesse": 0.00000000459430196879355
+  },
+  "hit_high_1": {
+    "boucle": false,
+    "duree": 1.43333333333333,
+    "vitesse": 0.000000016304489350326
+  },
+  "hit_high_2": {
+    "boucle": false,
+    "duree": 1.23333333333333,
+    "vitesse": 0.000000041649476562773
   },
   "idle": {
     "boucle": true,
@@ -33,6 +58,11 @@
     "boucle": false,
     "duree": 3.7,
     "vitesse": 0.168600160233797
+  },
+  "jump_kick": {
+    "boucle": false,
+    "duree": 1.27,
+    "vitesse": 0.529320626438701
   },
   "ko": {
     "boucle": false,
