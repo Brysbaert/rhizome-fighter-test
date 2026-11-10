@@ -14,6 +14,11 @@
     "duree": 2.53333333333333,
     "vitesse": 0.00000000635932482711468
   },
+  "block_low": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.0
+  },
   "capoeira": {
     "boucle": false,
     "duree": 1.19230769230769,
@@ -21,13 +26,13 @@
   },
   "card_throw": {
     "boucle": false,
-    "duree": 1.6,
+    "duree": 1.25,
     "vitesse": 0.0
   },
   "crouch": {
     "boucle": true,
     "duree": 2.5,
-    "vitesse": 0.000000181140972184607
+    "vitesse": 0.0
   },
   "crouch_down": {
     "boucle": false,
@@ -38,6 +43,11 @@
     "boucle": false,
     "duree": 2.86666666666667,
     "vitesse": 0.000000177783982745511
+  },
+  "crouch_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
   },
   "hit_body": {
     "boucle": false,
@@ -74,10 +84,20 @@
     "duree": 1.73333333333333,
     "vitesse": 0.529951343223018
   },
+  "kip_up": {
+    "boucle": false,
+    "duree": 1.56153846153846,
+    "vitesse": 0.0314932289369487
+  },
   "ko": {
     "boucle": false,
-    "duree": 3.33333333333333,
-    "vitesse": 0.169048978116634
+    "duree": 2.5,
+    "vitesse": 0.0
+  },
+  "laser": {
+    "boucle": false,
+    "duree": 2.6,
+    "vitesse": 0.0
   },
   "punch_1": {
     "boucle": false,
@@ -93,6 +113,16 @@
     "boucle": false,
     "duree": 1.16666666666667,
     "vitesse": 2.2793136678923
+  },
+  "super_poker": {
+    "boucle": false,
+    "duree": 1.535,
+    "vitesse": 0.785885755624748
+  },
+  "throw": {
+    "boucle": false,
+    "duree": 1.5,
+    "vitesse": 0.0
   },
   "walk_backward": {
     "boucle": true,

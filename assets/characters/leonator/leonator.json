@@ -9,10 +9,15 @@
     "duree": 2.53333333333333,
     "vitesse": 0.00000000501410650597539
   },
+  "block_low": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.0
+  },
   "crouch": {
     "boucle": true,
     "duree": 2.5,
-    "vitesse": 0.000000142823358111373
+    "vitesse": 0.0
   },
   "crouch_down": {
     "boucle": false,
@@ -23,6 +28,11 @@
     "boucle": false,
     "duree": 2.33333333333333,
     "vitesse": 0.0000000141377929407063
+  },
+  "crouch_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
   },
   "headbutt": {
     "boucle": false,

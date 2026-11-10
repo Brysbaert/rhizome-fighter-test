@@ -14,10 +14,15 @@
     "duree": 2.53333333333333,
     "vitesse": 0.00000000745335664158799
   },
+  "block_low": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.0
+  },
   "crouch": {
     "boucle": true,
     "duree": 2.5,
-    "vitesse": 0.000000212303712233616
+    "vitesse": 0.0
   },
   "crouch_down": {
     "boucle": false,
@@ -28,6 +33,11 @@
     "boucle": false,
     "duree": 2.86666666666667,
     "vitesse": 0.000000208369200282765
+  },
+  "crouch_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
   },
   "energy_blast": {
     "boucle": false,
@@ -64,15 +74,30 @@
     "duree": 1.27,
     "vitesse": 0.786823216039555
   },
+  "jump_salto": {
+    "boucle": false,
+    "duree": 1.4,
+    "vitesse": 0.00000620671765641776
+  },
+  "jump_salto_arriere": {
+    "boucle": false,
+    "duree": 1.4,
+    "vitesse": 0.00000620671765641776
+  },
   "kick": {
     "boucle": false,
     "duree": 1.73333333333333,
     "vitesse": 0.621121969880863
   },
+  "kip_up": {
+    "boucle": false,
+    "duree": 1.56153846153846,
+    "vitesse": 0.036911193160227
+  },
   "ko": {
     "boucle": false,
-    "duree": 3.33333333333333,
-    "vitesse": 0.198131461759431
+    "duree": 2.5,
+    "vitesse": 0.0
   },
   "punch_1": {
     "boucle": false,
