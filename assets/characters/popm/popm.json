@@ -1,4 +1,9 @@
 {
+  "air_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
+  },
   "armada": {
     "boucle": false,
     "duree": 1.63333333333333,

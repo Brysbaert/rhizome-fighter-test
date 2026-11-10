@@ -1,4 +1,9 @@
 {
+  "air_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
+  },
   "block": {
     "boucle": false,
     "duree": 2.53333333333333,
@@ -12,6 +17,11 @@
   "block_low": {
     "boucle": false,
     "duree": 2.53333333333333,
+    "vitesse": 0.0
+  },
+  "collet": {
+    "boucle": false,
+    "duree": 1.5,
     "vitesse": 0.0
   },
   "crouch": {
@@ -38,6 +48,11 @@
     "boucle": false,
     "duree": 2.23333333333333,
     "vitesse": 0.00000000486064640718376
+  },
+  "herisson": {
+    "boucle": true,
+    "duree": 0.5,
+    "vitesse": 0.0
   },
   "hit_body": {
     "boucle": false,

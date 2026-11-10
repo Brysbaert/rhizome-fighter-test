@@ -1,4 +1,9 @@
 {
+  "air_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
+  },
   "block": {
     "boucle": false,
     "duree": 2.53333333333333,

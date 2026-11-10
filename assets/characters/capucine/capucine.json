@@ -1,4 +1,9 @@
 {
+  "air_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
+  },
   "bicycle_kick": {
     "boucle": true,
     "duree": 0.666666666666667,
