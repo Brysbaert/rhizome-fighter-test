@@ -44,6 +44,11 @@
     "duree": 0.75,
     "vitesse": 0.0
   },
+  "fire_breath": {
+    "boucle": false,
+    "duree": 2.4,
+    "vitesse": 0.0
+  },
   "headbutt": {
     "boucle": false,
     "duree": 2.23333333333333,
