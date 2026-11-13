@@ -19,6 +19,11 @@
     "duree": 2.53333333333333,
     "vitesse": 0.0
   },
+  "contorsion": {
+    "boucle": false,
+    "duree": 2.2,
+    "vitesse": 0.0
+  },
   "crouch": {
     "boucle": true,
     "duree": 2.5,
