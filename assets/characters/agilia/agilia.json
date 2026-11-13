@@ -1,0 +1,147 @@
+{
+  "air_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
+  },
+  "block": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.00000000716605694994376
+  },
+  "block_high": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.00000000716605694994376
+  },
+  "block_low": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.0
+  },
+  "crouch": {
+    "boucle": true,
+    "duree": 2.5,
+    "vitesse": 0.0
+  },
+  "crouch_down": {
+    "boucle": false,
+    "duree": 0.633333333333333,
+    "vitesse": 0.160808915537329
+  },
+  "crouch_kick": {
+    "boucle": false,
+    "duree": 2.86666666666667,
+    "vitesse": 0.000000200337328219195
+  },
+  "crouch_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
+  },
+  "energy_blast": {
+    "boucle": false,
+    "duree": 2.05,
+    "vitesse": 0.000000517930921982758
+  },
+  "flow_kick": {
+    "boucle": false,
+    "duree": 1.73333333333333,
+    "vitesse": 0.597179985215253
+  },
+  "hit_body": {
+    "boucle": false,
+    "duree": 1.4,
+    "vitesse": 0.0
+  },
+  "hit_high_1": {
+    "boucle": false,
+    "duree": 1.43333333333333,
+    "vitesse": 0.0000000233020377778072
+  },
+  "hit_high_2": {
+    "boucle": false,
+    "duree": 1.23333333333333,
+    "vitesse": 0.0000000595245674635145
+  },
+  "idle": {
+    "boucle": true,
+    "duree": 3.3,
+    "vitesse": 0.0
+  },
+  "jump": {
+    "boucle": false,
+    "duree": 1.4,
+    "vitesse": 0.00000596747134706208
+  },
+  "jump_kick": {
+    "boucle": false,
+    "duree": 1.27,
+    "vitesse": 0.756494053191589
+  },
+  "jump_salto": {
+    "boucle": false,
+    "duree": 1.4,
+    "vitesse": 0.00000596747134706208
+  },
+  "jump_salto_arriere": {
+    "boucle": false,
+    "duree": 1.4,
+    "vitesse": 0.00000596747134706208
+  },
+  "kick": {
+    "boucle": false,
+    "duree": 1.73333333333333,
+    "vitesse": 0.597179985215253
+  },
+  "kip_up": {
+    "boucle": false,
+    "duree": 1.56153846153846,
+    "vitesse": 0.0354884014003396
+  },
+  "ko": {
+    "boucle": false,
+    "duree": 2.5,
+    "vitesse": 0.0
+  },
+  "punch_1": {
+    "boucle": false,
+    "duree": 1.0,
+    "vitesse": 0.0000000745573406076139
+  },
+  "punch_2": {
+    "boucle": false,
+    "duree": 2.0,
+    "vitesse": 0.0000000337530643719233
+  },
+  "punch_rush": {
+    "boucle": false,
+    "duree": 1.12272727272727,
+    "vitesse": 0.0000000463393033712473
+  },
+  "roll": {
+    "boucle": false,
+    "duree": 1.16666666666667,
+    "vitesse": 2.56846316156998
+  },
+  "uppercut": {
+    "boucle": false,
+    "duree": 0.76,
+    "vitesse": 0.213939164098375
+  },
+  "walk_backward": {
+    "boucle": true,
+    "duree": 0.8,
+    "vitesse": 0.402859137711923
+  },
+  "walk_forward": {
+    "boucle": true,
+    "duree": 1.0,
+    "vitesse": 0.294637398660809
+  },
+  "win": {
+    "boucle": true,
+    "duree": 2.4,
+    "vitesse": 0.0
+  }
+}
