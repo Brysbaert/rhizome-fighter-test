@@ -42,6 +42,11 @@
     "duree": 0.75,
     "vitesse": 0.0
   },
+  "danse": {
+    "boucle": true,
+    "duree": 5.43333333333333,
+    "vitesse": 0.0
+  },
   "double_punch": {
     "boucle": false,
     "duree": 1.0,

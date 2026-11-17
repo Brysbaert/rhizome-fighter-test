@@ -44,6 +44,11 @@
     "duree": 0.75,
     "vitesse": 0.0
   },
+  "danse": {
+    "boucle": true,
+    "duree": 21.4,
+    "vitesse": 0.0249850201505426
+  },
   "energy_blast": {
     "boucle": false,
     "duree": 2.05,
