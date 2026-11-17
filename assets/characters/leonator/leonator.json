@@ -46,8 +46,8 @@
   },
   "danse": {
     "boucle": true,
-    "duree": 12.3666666666667,
-    "vitesse": 0.00000000149236045029187
+    "duree": 3.16666666666667,
+    "vitesse": 0.000000386064124019206
   },
   "fire_breath": {
     "boucle": false,
