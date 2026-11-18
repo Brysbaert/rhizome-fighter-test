@@ -4512,7 +4512,7 @@ uniform float force;
         <p class="sel-phrase"></p>
       </div>
       <div class="sel-stats"><h3>Attributs</h3><ul></ul></div>
-      <button class="sel-coups-perso" type="button"><span class="sel-coups-texte"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 2 4 14h7l-1 8 9-12h-7z"/></svg><b>Voir les coups</b>${e===0?`<kbd>V</kbd>`:``}</span></button>
+      <button class="sel-coups-perso" type="button"><span class="sel-coups-texte"><svg viewBox="0 0 24 24" aria-hidden="true"><defs><mask id="sel-poing-masque"><rect width="24" height="24" fill="#000"/><g fill="#fff"><rect x="6.5" y="5.2" width="9" height="13.6" rx="3.2"/><rect x="11" y="5" width="10.5" height="3.4" rx="1.7"/><rect x="11" y="8.7" width="11" height="3.4" rx="1.7"/><rect x="11" y="12.4" width="11" height="3.4" rx="1.7"/><rect x="11" y="16.1" width="10" height="3.2" rx="1.6"/><rect x="3.6" y="9.2" width="4.5" height="6.6" rx="1"/><rect x="0" y="7.2" width="2.6" height="1.3" rx=".65"/><rect x="0" y="11.85" width="2.6" height="1.3" rx=".65"/><rect x="0" y="16.5" width="2.6" height="1.3" rx=".65"/></g><g fill="none" stroke="#000" stroke-linecap="round"><path stroke-width=".7" d="M13.5 8.55H22.5M13.5 12.25H22.5M16.8 15.95H22.5"/><path stroke-width=".8" d="M7.9 9.6V15.4"/><rect stroke-width=".9" x="8.4" y="12.9" width="8.6" height="4" rx="2"/></g></mask></defs><rect width="24" height="24" mask="url(#sel-poing-masque)"/></svg><b>Voir les coups</b>${e===0?`<kbd>V</kbd>`:``}</span></button>
       <div class="sel-couleurs"><span class="sel-couleurs-titre">Couleur</span><div class="sel-pastilles"></div>
         <span class="sel-couleurs-nom"></span></div>
       <div class="sel-vignettes"><div class="sel-vignettes-piste">
