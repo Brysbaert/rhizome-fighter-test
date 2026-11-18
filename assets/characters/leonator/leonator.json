@@ -99,6 +99,11 @@
     "duree": 1.27,
     "vitesse": 0.529320626438701
   },
+  "kick": {
+    "boucle": false,
+    "duree": 2.13333333333333,
+    "vitesse": 0.00000297424319587431
+  },
   "ko": {
     "boucle": false,
     "duree": 4.6,
