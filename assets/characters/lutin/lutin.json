@@ -1,0 +1,22 @@
+{
+  "hit_body": {
+    "boucle": false,
+    "duree": 1.4,
+    "vitesse": 0.0
+  },
+  "idle": {
+    "boucle": true,
+    "duree": 3.3,
+    "vitesse": 0.0
+  },
+  "jump_kick": {
+    "boucle": false,
+    "duree": 1.27,
+    "vitesse": 0.528939987295582
+  },
+  "run": {
+    "boucle": true,
+    "duree": 0.7,
+    "vitesse": 1.58086292745492
+  }
+}
