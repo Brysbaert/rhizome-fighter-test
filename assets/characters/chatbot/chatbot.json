@@ -1,0 +1,127 @@
+{
+  "air_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
+  },
+  "block": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.0000000065365459546971
+  },
+  "block_high": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.0000000065365459546971
+  },
+  "block_low": {
+    "boucle": false,
+    "duree": 2.53333333333333,
+    "vitesse": 0.0
+  },
+  "crouch": {
+    "boucle": true,
+    "duree": 2.5,
+    "vitesse": 0.0
+  },
+  "crouch_down": {
+    "boucle": false,
+    "duree": 0.633333333333333,
+    "vitesse": 0.146682460616365
+  },
+  "crouch_kick": {
+    "boucle": false,
+    "duree": 2.86666666666667,
+    "vitesse": 0.000000182738451772461
+  },
+  "crouch_punch": {
+    "boucle": false,
+    "duree": 0.75,
+    "vitesse": 0.0
+  },
+  "energy_blast": {
+    "boucle": false,
+    "duree": 2.05,
+    "vitesse": 0.000000472432649718966
+  },
+  "hit_body": {
+    "boucle": false,
+    "duree": 1.2,
+    "vitesse": 0.00000000598927563923627
+  },
+  "hit_high_1": {
+    "boucle": false,
+    "duree": 1.43333333333333,
+    "vitesse": 0.0000000212550419061239
+  },
+  "hit_high_2": {
+    "boucle": false,
+    "duree": 1.23333333333333,
+    "vitesse": 0.0000000542955593817579
+  },
+  "idle": {
+    "boucle": true,
+    "duree": 3.3,
+    "vitesse": 0.0
+  },
+  "jump": {
+    "boucle": false,
+    "duree": 1.4,
+    "vitesse": 0.00000544325156301132
+  },
+  "jump_kick": {
+    "boucle": false,
+    "duree": 1.27,
+    "vitesse": 0.690038912289235
+  },
+  "kick": {
+    "boucle": false,
+    "duree": 1.73333333333333,
+    "vitesse": 0.544719982530347
+  },
+  "kip_up": {
+    "boucle": false,
+    "duree": 1.56153846153846,
+    "vitesse": 0.0323708795830708
+  },
+  "ko": {
+    "boucle": false,
+    "duree": 2.5,
+    "vitesse": 0.0
+  },
+  "punch_1": {
+    "boucle": false,
+    "duree": 1.0,
+    "vitesse": 0.0000000680077602712183
+  },
+  "punch_2": {
+    "boucle": false,
+    "duree": 2.0,
+    "vitesse": 0.0000000307879853481569
+  },
+  "roll": {
+    "boucle": false,
+    "duree": 1.16666666666667,
+    "vitesse": 2.34283338882487
+  },
+  "uppercut": {
+    "boucle": false,
+    "duree": 0.76,
+    "vitesse": 0.195145417822766
+  },
+  "walk_backward": {
+    "boucle": true,
+    "duree": 0.8,
+    "vitesse": 0.367469486402045
+  },
+  "walk_forward": {
+    "boucle": true,
+    "duree": 1.0,
+    "vitesse": 0.268754617744687
+  },
+  "win": {
+    "boucle": true,
+    "duree": 5.4,
+    "vitesse": 0.0000000336894329424562
+  }
+}
